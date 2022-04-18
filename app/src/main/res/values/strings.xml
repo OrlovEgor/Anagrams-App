@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">anagrams</string>
+    <string name="preview_text">Foxminded</string>
+    <string name="get_an_anagram">get an annagram</string>
+    <string name="ignored_characters">ignored characters</string>
+    <string name="enter_text">Enter text</string>
+    <string name="toast">entered characters are not supported by UTF-8 or null encoding</string>
+</resources>
